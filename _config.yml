@@ -1,13 +1,13 @@
 # site settings
-title: "Shunya Lab"
+title: "Shunyoru's Lab"
 subtitle: "Between the twinkle and the night"
 email: "TBD"
 description: "一個鑽研底層技術的科技愛好者"
 # 
 baseurl: "" 
-url: "https://shunya-lab.github.io"
+url: "https://shunyoru.github.io"
 # 
-author: "Shunya"
+author: "Shunyoru"
 street_address: ""
 city: "Taipei"
 state: ""
@@ -24,7 +24,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/shunya-lab
+  GitHub: https://github.com/shunyoru
   GitLab:
   Google-Plus:
   Instagram:
